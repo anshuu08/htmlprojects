@@ -1,0 +1,67 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+</head>
+<body>
+    <h1>Anshu Kondru</h1>
+    <p> <i>Data Analyst & Web developer</i></p>
+    <p>💻Exploring the world of computer science with the passion of problem solving</p>
+    <hr>
+    <h2>Education</h2>
+    <table border=" ">
+        <thead>
+            <tr>
+                <th>Course</th>
+                <th>institution</th>
+                <th>year of graduation</th>
+                <th>CGPA</th>
+            </tr>
+            <tr>
+                <td>Btech CSE</td>
+                <td>VIT,AP</td>
+                <td>2026</td>
+                <td>8.2</td>
+            </tr>
+            <tr>
+                <td>12th mpc</td>
+                <td>sarada educational institution</td>
+                <td>2022</td>
+                <td>91%</td>
+            </tr>
+            </thead>
+        </table>
+        <hr>    
+            <h2>Internship</h2>
+            <p>Web development inter at Corizo</p>
+            <p>developed into</p>
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JAVA SCRIPT</li>
+            </ul>
+            <hr>
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>>MUSIC PLAYER</h3
+                    
+                    <p> a complete music player involves various components, including a user interface, audio processing, and possibly data management. 
+                        This simple program allows the user to add songs to a playlist and display the playlist. It operates through a console interface.</P>
+                    </li>
+                <li>
+                    <h3>PIZZA BILL GENERATOR</h3>
+                    <p>erves up a slice of convenience by allowing users to customize their pizza orders with sizes and toppings,
+                         then swiftly calculates the total bill, including a sprinkle of tax, to deliver a delightful dining experience! 🍕💰</p>
+                         
+                </li>
+            </ul>
+            <hr>
+            <h2>Connect with me🤝</h2>
+            <p>EMAIL: kondruanshu@gmail.com</p>
+            <p>CONTACT: 7901014031</p>
+        
+    
+</body>
+</html>
